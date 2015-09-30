@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">COMSATS Carpool Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_testing">Testing</string>
+    <string name="title_activity_designation_select">designation_select</string>
+    <string name="title_activity_option_select">option_select</string>
+    <string name="title_activity_form">Form</string>
+
+    <string name="bDriver">Driver</string>
+    <string name="bPassenger">Passenger</string>
+
+    <string name="About_Button">About</string>
+    <string name="Profile_Button">View Profile</string>
+    <string name="Settings_Button">Preferences</string>
+    <string name="Logout_Button">Logout</string>
+
+    <string name="bSearchad">Search an Ad</string>
+    <string name="bPostad">Post an Ad</string>
+
+
+    <string name="bLogin">LOGIN</string>
+    <string name="bRegister">SIGN UP</string>
+    <string name="title_activity_faculty__sign_in__form">Faculty_SignIn_Form</string>
+    <string name="title_activity_student__sign_in__form">Student_SignIn_Form</string>
+    <string name="Spring_Fall_Spinner">FA00</string>
+    <string name="Degree_Spinner">BBA</string>
+
+
+    <string name="Seats_Selector">1</string>
+
+    <string-array name="Seats_Selector">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+
+
+
+
+    <string-array name="Spring_Fall_Array">
+        <item>FA00</item>
+        <item>FA01</item>
+        <item>FA02</item>
+        <item>FA03</item>
+        <item>FA04</item>
+        <item>FA05</item>
+        <item>FA06</item>
+        <item>FA07</item>
+    </string-array>
+
+    <string-array name="Degree_Array">
+        <item>BCS</item>
+        <item>BBA</item>
+        <item>BBI</item>
+        <item>BSC</item>
+        <item>BSS</item>
+        <item>BAF</item>
+        <item>BPH</item>
+        <item>BIT</item>
+    </string-array>
+    <string name="title_activity_driver__passenger">Driver_Passenger</string>
+    <string name="title_activity_post__search">Post_Search</string>
+    <string name="title_activity_search__an__ad__form">Search_An_Ad_Form</string>
+    <string name="title_activity_post__an__ad__form">Post_An_Ad_Form</string>
+
+</resources>
+
