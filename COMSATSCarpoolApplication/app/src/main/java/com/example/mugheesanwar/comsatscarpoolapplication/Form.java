@@ -13,7 +13,7 @@ import android.widget.Button;
 public class Form extends Activity implements View.OnClickListener {
 
     Button bPost;
-//hello world
+//hello world from mac
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
